@@ -6,6 +6,9 @@
 - Server A
 - Server B 
 
+## Diagram
+![HOME LAB](./assets/LW-294-LAB.jpg)
+
 ### System Configuration
 
 - Workstation
